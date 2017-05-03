@@ -1,0 +1,16 @@
+PODS:
+  - Mapbox-iOS-SDK (3.5.2)
+
+DEPENDENCIES:
+  - Mapbox-iOS-SDK (from `https://raw.githubusercontent.com/mapbox/mapbox-gl-native/ios-v3.5.2/platform/ios/Mapbox-iOS-SDK.podspec`)
+
+EXTERNAL SOURCES:
+  Mapbox-iOS-SDK:
+    :podspec: https://raw.githubusercontent.com/mapbox/mapbox-gl-native/ios-v3.5.2/platform/ios/Mapbox-iOS-SDK.podspec
+
+SPEC CHECKSUMS:
+  Mapbox-iOS-SDK: d0d58079e56e4eed4f0d8726afdbd49a76de8e5a
+
+PODFILE CHECKSUM: a2927ccda8a54e0eea652694d6a34128587f67b2
+
+COCOAPODS: 1.2.1
